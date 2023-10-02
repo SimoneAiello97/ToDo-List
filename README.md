@@ -15,7 +15,7 @@ The To-Do List App is a web application that allows users to create, update, and
 
 ## 🛠️ Technologies Used
 
-- **Angular**: The front-end framework used to build the application's user interface.
+- ![Static Badge](https://img.shields.io/badge/Angular-red?logo=angular): The front-end framework used to build the application's user interface.
 - **Mock Backend**: Simulated backend for storing and managing tasks.
 
 ## 💻 Getting Started
